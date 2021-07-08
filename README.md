@@ -7,7 +7,7 @@ The complete dataset is a collection of the COVID-19 data maintained by [Our Wor
 ## ⭐ Try out our models:
 
 <details>
-  <summary> <strong> Multi-gaussian model </strong> </summary>
+  <summary> <strong> Model fitting and predicting using linear prediction </strong> </summary>
     <ol>
       <li> Visit our <a href="https://colab.research.google.com/github/thanghoang7020202/Vitstd_DiscreteStuctureforComputingReport/blob/Model-1/plotly_test.ipynb">Colab Notebook</a>. </li>
       <li> This repository consists of our data file .txt and code of machine learning model (with explanations)
